@@ -1,0 +1,144 @@
+[
+    {
+        "post_id": 4,
+        "title": "user_id 6이 수정한 게시글",
+        "content": "이미지까지 수정\r\n\r\n1. (입문자를 위한) 미니퀘스트\r\n교재에 있는 미니퀘스트 모두 해보기,\r\n문제에 대한 답이나 직접적인 해결책은 검색하거나 GPT 활용 금지, 문법이나 사용법 등은 검색 가능\r\n\r\n2. (공통과제) 프론트엔드 JS 코드 작성하여 바닐라로 커뮤니티 완료해오기\r\n2-1. Event부터 적용해보기\r\n2-2. Fetch 적용해보기\r\n2-1, 2-2 순서 꼭 잘 지키기\r\n백엔드 코드 작성 금지\r\nFetch에서 json파일 호출하는 방법으로 구현\r\n\r\n3. (중급자를 위한) express를 이용하여 서버 구현 (route-controller-model)\r\n- model은 DB연결이 아닌 JSON 더미 데이터로 진행\r\n**백엔드 서버 분리해야합니다!!\r\n기존 express 와 달리 새로운 express 만들어야함.",
+        "image": {
+            "fieldname": "image",
+            "originalname": "e27878b2d7c30103f76bfb73833ffaabc37d537a8f2c6f426591be6b8dc7b36a.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "0d1fbaaa245365b9049f78999693add4",
+            "path": "uploads/0d1fbaaa245365b9049f78999693add4",
+            "size": 31894
+        },
+        "user_id": 6,
+        "created_at": "2024-05-03 09:36",
+        "updated_at": "2024-05-07 23:42",
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 1,
+        "hits": 68,
+        "comments_list": []
+    },
+    {
+        "post_id": 5,
+        "title": "user_id 6이 또 작성한 게시글",
+        "content": "그냥 이쁜 사진",
+        "image": {
+            "fieldname": "image",
+            "originalname": "samplepost4.jpg",
+            "encoding": "7bit",
+            "mimetype": "image/jpeg",
+            "destination": "uploads/",
+            "filename": "c6b85abf13f728c5e2b64f29f1ffaea2",
+            "path": "uploads/c6b85abf13f728c5e2b64f29f1ffaea2",
+            "size": 95205
+        },
+        "user_id": 6,
+        "created_at": "2024-05-03 09:48",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 6,
+        "comments_list": []
+    },
+    {
+        "post_id": 7,
+        "title": "직접 글을 작성해보자",
+        "content": "아자아자 끝이 보인다!",
+        "image": {
+            "fieldname": "image",
+            "originalname": "e27878b2d7c30103f76bfb73833ffaab616b58f7bf017e58d417ccb3283deeb3.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "b67b1093bce64750fa9f2cb670c14029",
+            "path": "uploads/b67b1093bce64750fa9f2cb670c14029",
+            "size": 38175
+        },
+        "user_id": 6,
+        "created_at": "2024-05-07 17:47",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 1,
+        "comments_list": []
+    },
+    {
+        "post_id": 8,
+        "title": "새로 글을 작성해보자",
+        "content": "마지막 글이 되길 바라며",
+        "user_id": 6,
+        "created_at": "2024-05-07 17:51",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 1,
+        "hits": 8,
+        "comments_list": [
+            {
+                "comment_id": 1,
+                "content": "새로운 댓글 달고 갑니다~",
+                "user_id": 3,
+                "created_at": "2024-05-12 23:22",
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "post_id": 9,
+        "title": "5번째 게시글! ",
+        "content": "ㅎㅇ",
+        "user_id": 3,
+        "created_at": "2024-05-14 02:09",
+        "updated_at": "2024-05-14 02:09",
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 4,
+        "comments_list": []
+    },
+    {
+        "post_id": 10,
+        "title": "6번째 글.",
+        "content": "ㅁㄴㅇ",
+        "user_id": 3,
+        "created_at": "2024-05-14 02:09",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 1,
+        "comments_list": []
+    },
+    {
+        "post_id": 11,
+        "title": "글 여러개",
+        "content": "ㅎㅎ",
+        "user_id": 3,
+        "created_at": "2024-05-14 02:15",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 1,
+        "comments_list": []
+    },
+    {
+        "post_id": 12,
+        "title": "하나더",
+        "content": "ㅁㄴ",
+        "user_id": 3,
+        "created_at": "2024-05-14 02:15",
+        "updated_at": null,
+        "deleted_at": null,
+        "likes": 0,
+        "comments": 0,
+        "hits": 1,
+        "comments_list": []
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "user_id": 3,
+        "email": "user3@example.com",
+        "password": "Fdsafdsa1!",
+        "nickname": "유저1",
+        "profile_image": {
+            "fieldname": "profile_image",
+            "originalname": "자료9조.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "cc695003a5b175de683f8eae5bf00202",
+            "path": "uploads/cc695003a5b175de683f8eae5bf00202",
+            "size": 99145
+        },
+        "created_at": "2024-05-01 23:34"
+    },
+    {
+        "user_id": 5,
+        "email": "user1@example.com",
+        "password": "Asdfasdf1!",
+        "nickname": "유저1",
+        "profile_image": {
+            "fieldname": "profile_image",
+            "originalname": "userimage.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "c9f94e0424688c908baaf53d19725a38",
+            "path": "uploads/c9f94e0424688c908baaf53d19725a38",
+            "size": 221689
+        },
+        "created_at": "2024-05-05 00:55"
+    },
+    {
+        "user_id": 6,
+        "email": "user2@example.com",
+        "password": "FDSAfdsa1!",
+        "nickname": "수정하는닉네임",
+        "profile_image": {
+            "fieldname": "profile_image",
+            "originalname": "e27878b2d7c30103f76bfb73833ffaab82f3bd8c9735553d03f6f982e10ebe70.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "cf1f8d2aa93073c5ed6c041e6a6fdbf1",
+            "path": "uploads/cf1f8d2aa93073c5ed6c041e6a6fdbf1",
+            "size": 34115
+        },
+        "created_at": "2024-05-05 00:58"
+    },
+    {
+        "user_id": 7,
+        "email": "",
+        "password": "",
+        "nickname": "",
+        "created_at": "2024-05-14 00:39"
+    },
+    {
+        "user_id": 8,
+        "email": "user4@example.com",
+        "password": "Asdfasdf1!",
+        "nickname": "닉네임",
+        "profile_image": {
+            "fieldname": "profile_image",
+            "originalname": "e27878b2d7c30103f76bfb73833ffaab82f3bd8c9735553d03f6f982e10ebe70.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "154cfc5c2f12c97c201e8e40133c1d86",
+            "path": "uploads/154cfc5c2f12c97c201e8e40133c1d86",
+            "size": 34115
+        },
+        "created_at": "2024-05-14 00:42"
+    },
+    {
+        "user_id": 9,
+        "email": "user5@example.com",
+        "password": "Asdfasdf1!",
+        "nickname": "나는제이미",
+        "profile_image": {
+            "fieldname": "profile_image",
+            "originalname": "e27878b2d7c30103f76bfb73833ffaab82f3bd8c9735553d03f6f982e10ebe70.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "destination": "uploads/",
+            "filename": "70cc61ab2939b22254a1ef750a6a1ff2",
+            "path": "uploads/70cc61ab2939b22254a1ef750a6a1ff2",
+            "size": 34115
+        },
+        "created_at": "2024-05-14 01:26"
+    }
+]
