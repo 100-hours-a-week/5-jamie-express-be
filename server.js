@@ -37,6 +37,7 @@ app.use(
 );
 
 // 정적 파일 제공
+app.use(express.urlencoded({ extended: false }));
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 // 라우터 등록
