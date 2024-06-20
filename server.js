@@ -8,6 +8,7 @@ const { PORT, SECRET_KEY } = process.env;
 
 const usersRouter = require("./routes/usersRouter");
 const postsRouter = require("./routes/postsRouter");
+const commentsRouter = require("./routes/commentRouter");
 
 // json 형식의 데이터를 파싱하기 위한 미들웨어
 app.use(express.json());
@@ -43,6 +44,7 @@ app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 // 라우터 등록
 app.use("/users", usersRouter);
 app.use("/posts", postsRouter);
+app.use("/posts", commentsRouter);
 
 // listen for requests
 app.listen(PORT, () => {
